@@ -2,7 +2,7 @@
 
 > Mi espacio personal en la web para mostrar mi experiencia, proyectos y habilidades como Desarrollador Frontend.
 
-🔗 **[Visita la Live Demo aquí](https://alejandroluisreydev.github.io/portfolio/)** 
+🔗 **[Visita la Live Demo aquí](https://alejandroluisreydev.github.io/portfolio-web/)** 
 ![Portfolio Preview](./assets/portfolio-preview.jpg)
 
 ## 🚀 Sobre el Proyecto
@@ -29,7 +29,7 @@ Si deseas clonar y explorar el código de este proyecto en tu entorno local:
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/AlejandroLuisReyDEV/portfolio.git
+git clone https://github.com/AlejandroLuisReyDEV/portfolio-web.git
 ```
 2. Abre el proyecto en tu editor de código (ej. VS Code).
 
